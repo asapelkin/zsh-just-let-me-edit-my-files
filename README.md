@@ -26,4 +26,28 @@ exec zsh
 
 ## Editors
 
-- Wrapped editors: `vim`, `vi`, `nano`.
+Wrapped editors: 
+- vim
+- vi
+- nano
+- nvim
+- emacs
+- emacsclient
+- helix
+- hx
+- kak
+- kakoune
+- micro
+- pico
+- joe
+- jed
+- mg
+- ne
+- vis
+- zile
+- ed
+- ex
+- textadept
+- ee
+- acme
+- sam
